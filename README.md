@@ -1,7 +1,7 @@
 # Plavio - Course Scheduling Application
 
 ## Project Overview
-SchedulingWizard is a Windows Forms application written in C# that helps manage and generate course schedules. The application appears to be designed for educational institutions to handle course scheduling and user management.
+Plavio is a Windows Forms application written in C# that helps manage and generate course schedules. The application appears to be designed for educational institutions to handle course scheduling and user management.
 
 ### Key Features
 - User authentication system with admin and regular user roles
